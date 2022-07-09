@@ -22,4 +22,4 @@ Howdy!
 
 
 
-## [https://barlowr.github.io/](BarlowR.com)
+## [BarlowR.com](https://barlowr.github.io/)
